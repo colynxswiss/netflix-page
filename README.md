@@ -1,0 +1,1 @@
+This is a netflix clone page developed by Colynx Swiss as part of code along project
